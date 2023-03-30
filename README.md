@@ -80,3 +80,4 @@ fantastic community members that support it and provide bug reports,
 patches, and great ideas. See the
 [THANKS file](https://raw.githubusercontent.com/NagiosEnterprises/nagioscore/master/THANKS)
 for some of the many who have contributed since 1999.
+THese are my phuckup
